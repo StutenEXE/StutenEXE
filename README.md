@@ -1,4 +1,73 @@
-# 💫 About Me:
+# Hey, I'm Alexandre 👋
+
+Backend engineer with an architecture focus, currently finishing my engineering degree at UTC (Compiègne). I like building things that are clean, scalable, and actually useful — from internal tools at Dassault Systèmes to personal side projects driven by a genuine problem I needed to solve.
+
+Available for full-time positions from **September 2026** — based in the western Paris suburbs, open to on-site or hybrid in the Île-de-France area.
+
+---
+
+## 🔨 What I work with
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Backend & APIs**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Data & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+### [Know Your Stash](https://github.com/StutenEXE/comics-engineering) — *in progress*
+A personal comics collection manager built from scratch on a self-hosted VPS. The kind of thing that exists because I couldn't find a tool that did exactly what I wanted.
+`Java` `Go` `React` `PostgreSQL` `MongoDB` `Redis` `Nginx`
+
+### [RAG on the French Civil Code](https://github.com/StutenEXE/utc-ai31-rag-code-civil)
+Built a full RAG pipeline to make the Civil Code queryable in plain language. Covers vector ingestion, retrieval, and LLM orchestration.
+`Python` `LangChain` `ChromaDB` `Gemini Flash 2.0`
+
+### [Bee Swarm Multi-Agent Simulation](https://github.com/StutenEXE/utc-ai30-bees-simulation)
+Multi-agent system in Go exploring emergent behaviour through goroutines and semaphores. Simple rules, interesting results.
+`Go` `Concurrency` `Multi-agent systems`
+
+### [Splendor Duel (C++ / Qt)](https://github.com/AI22-Splendor/Splendor_DUEL)
+Full C++ reimplementation of the board game Splendor Duel with a Qt UI, built as a university project.
+`C++` `Qt`
+
+---
+
+## 📊 Stats
+
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StutenEXE&theme=default&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StutenEXE&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+## 📬 Get in touch
+
+[![Email](https://img.shields.io/badge/alexandre.bidaux78@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre.bidaux78@gmail.com)
+
+*Franco-American · French (native) · English (C1+, bilingual)*# 💫 About Me:
 🌱Hello, I am a student in computer sciences
 
 
