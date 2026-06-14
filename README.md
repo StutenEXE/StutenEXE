@@ -39,24 +39,24 @@ I'm currently finishing my engineering degree at UTC while working at Dassault S
 
 ## What I'm building
 
-**[Know Your Stash](https://github.com/StutenEXE/comics-engineering)** — a comics collection manager I'm building from scratch on a self-hosted VPS because nothing out there did exactly what I wanted. Java backend with Javalin & jOOQ, React frontend, PostgreSQL + MongoDB. Ongoing.
+**[Know Your Stash](https://github.com/StutenEXE/comics-engineering)** - a comics collection manager I'm building from scratch on a self-hosted VPS because nothing out there did exactly what I wanted. Java backend with Javalin & jOOQ, React frontend, PostgreSQL + MongoDB. Ongoing.
 
 ---
 
 ## Other things worth a look
 
-**[Apis mellifera vs Vespa crabo](https://github.com/StutenEXE/utc-ai30-bees-simulation)** — multi-agent simulation in Go: honeybees vs hornets. Goroutines, semaphores, WebSocket frontend, emergent behaviour from simple rules.
+**[Apis mellifera vs Vespa crabo](https://github.com/StutenEXE/utc-ai30-bees-simulation)** - multi-agent simulation in Go: honeybees vs hornets. Goroutines, semaphores, WebSocket frontend, emergent behaviour from simple rules.
 
-**[RAG on the French Civil Code](https://github.com/StutenEXE/utc-ai31-rag-code-civil)** — full RAG pipeline over the Civil Code so you can query it in plain French. PDF parsing → XML structuring → ChromaDB → Gemini Flash 2.0 via LangChain.
+**[RAG on the French Civil Code](https://github.com/StutenEXE/utc-ai31-rag-code-civil)** - full RAG pipeline over the Civil Code so you can query it in plain French. PDF parsing → XML structuring → ChromaDB → Gemini Flash 2.0 via LangChain.
 
-**[Splendor Duel in C++](https://github.com/AI22-Splendor/Splendor_DUEL)** — full reimplementation of the board game with a Qt UI.
+**[Splendor Duel in C++](https://github.com/AI22-Splendor/Splendor_DUEL)** - full reimplementation of the board game with a Qt UI.
 
-**[Toronto bus arrival prediction](https://github.com/StutenEXE/utc-tz-machine-learning-toronto-bus-prediction)** — ML mini research project on bus delay prediction, done alongside a researcher at UTC.
+**[Toronto bus arrival prediction](https://github.com/StutenEXE/utc-tz-machine-learning-toronto-bus-prediction)** - ML mini research project on bus delay prediction, done alongside a researcher at UTC.
 
 ---
 
 ## About me
 
-Big comics reader — DC, Marvel, Image. Know Your Stash exists mostly because of that.
+Big comics reader - DC, Marvel, Image. Know Your Stash exists mostly because of that.
 
 Reach me at **alexandre.bidaux78@gmail.com**
