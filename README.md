@@ -39,7 +39,7 @@ I'm currently finishing my engineering degree at UTC while working at Dassault S
 
 ## What I'm building
 
-**[Know Your Stash](https://github.com/StutenEXE/comics-engineering)** - a comics collection manager I'm building from scratch on a self-hosted VPS because nothing out there did exactly what I wanted. Java backend with Javalin & jOOQ, React frontend, PostgreSQL + MongoDB. Ongoing.
+**[Know Your Stash](https://github.com/StutenEXE/comics-engineering)** - a comics collection manager I'm building from scratch on a self-hosted VPS because nothing out there did exactly what I wanted. Java backend with Javalin & jOOQ, React frontend, PostgreSQL + MongoDB, small Go services for small use cases. Ongoing.
 
 ---
 
